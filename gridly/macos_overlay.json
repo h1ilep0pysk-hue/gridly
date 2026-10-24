@@ -1,0 +1,11 @@
+{
+  "enabled": false,
+  "level": "main_menu",
+  "max_apps": 14,
+  "clock": true,
+  "titlebar_enabled": false,
+  "titlebar_bundles": [
+    "com.apple.TextEdit",
+    "com.apple.Notes"
+  ]
+}

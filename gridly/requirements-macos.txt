@@ -1,0 +1,6 @@
+# macOS 11+ / Python 3.10+
+# Cocoa — AppKit/Foundation, Quartz — CALayer (скругление панели).
+# ApplicationServices — Accessibility (AXUIElement) для заголовков окон.
+pyobjc-framework-Cocoa>=12.2.2
+pyobjc-framework-Quartz>=12.2.2
+pyobjc-framework-ApplicationServices>=12.2.2
